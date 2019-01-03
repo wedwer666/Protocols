@@ -1,5 +1,4 @@
 # Protocols
-# Diameter 
 ## Diameter is an authentication, authorization, and accounting
 protocol for computer networks. It evolved from the earlier RADIUS
 protocol. It belongs to the application layer protocols in the internet protocol suite.
